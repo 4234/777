@@ -31,9 +31,9 @@ chmod +x /root/lscript/lh4
 chmod +x /root/lscript/lh41
 chmod +x /root/lscript/lh42
 chmod +x /root/lscript/lh43
-chmod +x /root/lscript/ls/l131.sh
-chmod +x /root/lscript/ls/l132.sh
-chmod +x /root/lscript/ls/l133.sh
+chmod +x /root/lscript/l131.sh
+chmod +x /root/lscript/l132.sh
+chmod +x /root/lscript/l133.sh
 chmod +x /root/lscript/uninstall.sh
 clear
 echo -e "Copying script to /bin/lscript"
